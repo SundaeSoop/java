@@ -3,6 +3,8 @@ Interview Code
 
 This is a test problem from Method Industries. Attached is my file on how to sovlve the problem. 
 
+Java is not my main language but it is a language I am wanting to learn more about. 
+
 
 Write a function that takes three Integer numbers Number1, Number2, and Number3, and
 determines if there is a mathematical operation that will make Number1 (operation) Number2
